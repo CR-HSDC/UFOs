@@ -58,7 +58,7 @@ A drawback of this current design is that the results cannot be filtered by the 
 **Recommendations for future designs:**
 
   * Implementation of "Duration" filter; filtering by range of durations (e.g. > 5min, 5 to 10 min etc.) would alllow that specific subset to be reviewed.
-  * Filtering on the comments section by a string search; sightings with specific criteria (e.g. comments mention hovering) to be reviewed. This filter would check for the exisitence of a specific string within the entire comment and return rows where comments contain that string.
+  * Filtering on the comments section by a string search; this would all sightings with specific criteria (e.g. comments mention hovering) to be reviewed. This filter would check for the exisitence of a specific string within the entire comment and return rows where comments contain that string.
 	
 
 
